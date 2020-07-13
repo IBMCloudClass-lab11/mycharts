@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  eventapp-lab11:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-13T18:13:55.628896+09:00"
+    description: A Helm chart for Kubernetes
+    digest: feef17a0dfc7335b11f59708a7c0bee7ed79a5982beb3c93a0ab8f7b071cbc13
+    name: eventapp-lab11
+    type: application
+    urls:
+    - https://ibmcloudclass-lab11.github.io/mycharts/eventapp-lab11-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-13T18:13:55.621938+09:00"
